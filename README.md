@@ -3,7 +3,7 @@
 This repository contains a machine learning pipeline for predicting crop yield based on various agricultural and environmental features. The model utilizes feature engineering techniques to enhance prediction accuracy and employs a Stacking Regressor for robust ensemble learning.
 
 ## Project Overview
-
+![alt text](image.png)
 The main objective is to build a predictive model that can accurately estimate crop yield based on key features. The dataset includes information on temperature ranges, pollinator counts, rainfall effects, and yield-related characteristics.
 
 ### Key Steps
